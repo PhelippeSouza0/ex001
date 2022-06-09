@@ -13,6 +13,7 @@
     --cor4: #00758a;
     --cor5: #ff00d4;
     --cor6: #ffffff;
+    --cor7: #ffffffdc; /**Cor para copyright**/
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque:  'Bebas Neue', cursive;
 }
@@ -30,7 +31,6 @@ nav{
 .navmenu > a{
     width: 90%;
     color: var(--cor2);
-    border-radius: 10px 10px 0px 0px;
     font-weight: bolder;
     transition-duration: 0.3s;
     padding: 10px 0.5% 10px 0.5%;
@@ -62,6 +62,20 @@ nav > a:hover{
     border-radius: 20px;
     padding: 10px;
 }
+.banner{
+    display: block;
+    background-color: var(--cor5);
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 15px;
+    text-align: center;
+}
+.banner > img{
+    background-color: var(--cor5);
+    width: 100%;
+    
+}
 body{ 
     background-attachment: fixed; 
     background-color: black;
@@ -88,7 +102,7 @@ p{
     margin-left: auto;
     margin-right: auto;}
 h1{
-    color: var(--cor5);
+    color: var(--cor6);
     text-align: center;
 }
 h2{
@@ -98,16 +112,15 @@ h3{
     font-family: var(--fonte-padrao);
     font-weight: bolder;
     font-size: x-large;
-    color: var(--cor5);
+    color: var(--cor6);
 }
 div.video {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     margin-top: 10px;
-    background-color: var(--cor3);
+    background-color: var(--cor5);
     height: 500px;
-    border-radius: 20px;
+    border-radius: 15px;
     padding: 10px;
 }
 div.video > iframe {
@@ -149,17 +162,17 @@ nav > img{
     text-align: center;
 }
 .creditos{
-    color: rgba(255, 255, 255, 0.548);
+    color: var(--cor7);
     text-decoration: underline;
     font-size: small;
 }
 div > p > a{
-    color: rgba(255, 255, 255, 0.548);
+    color: var(--cor7);
     text-decoration: underline;
 }
 .divh3{
     display: inline-block;
-    background-color: var(--cor3);
+    background-color: var(--cor5);
     padding: 10px 10px 30px 10px;
     margin: 20px;
     width: 300px;
@@ -168,7 +181,7 @@ div > p > a{
 }
 .divh4{
     display: inline-block;
-    background-color: var(--cor3);
+    background-color: var(--cor5);
     padding: 10px 10px 30px 10px;
     margin: 20px;
     width: 300px;
@@ -186,14 +199,14 @@ div > p > a{
     text-align: center;
 }
 .divseparando{
-    background-color: var(--cor3);
+    background-color: var(--cor5);
     padding: 5px;
     width: auto;
     margin: 0px 0px 10px 0px;
     border-radius: 15px 15px 0px 0px;
 }
 .divseparando2{
-    background-color: var(--cor3);
+    background-color: var(--cor5);
     padding: 5px;
     width: auto;
     margin: 10px 0px 10px 0px;
