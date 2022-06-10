@@ -1,10 +1,8 @@
 @charset "UTF-8";
-
 *{
     margin: 0px;
     padding: 0px;
 }
-
 :root{
     --cor0: #0099ff;
     --cor1: #00ffff;
@@ -80,14 +78,12 @@ body{
     background-color: black;
     width: 100%;
 }
-
 .logoprincipal{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 20%;
+    width: 30%;
 }
-
 main{
     padding: 15px;
     margin: auto;
@@ -238,4 +234,13 @@ footer > nav > div > a > img{
 .criando_parallax > section{
     background-color: #00538a00;
     height: 30px;
+}
+.criando_parallax > p{
+    color: var(--cor5);
+    text-align: center;
+    font-family: var(--fonte-padrao);
+    font-size: xx-large;
+    background-color: rgba(255, 255, 255, 0.829);
+    width: 400px;
+    border-radius: 15px;
 }
