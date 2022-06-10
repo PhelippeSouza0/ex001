@@ -1,0 +1,627 @@
+==============================================================
+========================Sites Utilizados==========================
+==============================================================
+Link para acessar o site de Phelippesouza0
+https://phelippesouza0.github.io/ex001/
+
+
+Site para a instalação do VisualStudioCode
+https://code.visualstudio.com/
+
+Site para pegar os Emojis 
+https://emojipedia.org/
+
+Site para edição de imagem caso não tenha o PhotoShop
+https://www.gimp.org/
+
+Site para pegar img.icon para favicon
+https://iconarchive.com/
+
+Site para criar img.icon
+https://www.favicon.cc/
+
+Site para transformar img.png ou .jpg ou .text em favicon
+https://favicon.io/
+
+Site para ver todos os midias types ( Aula de download pdf)
+https://www.iana.org/assignments/media-types/media-types.xhtml
+
+Site para vc limitar o acesso aos seus vídeos da sua página ex: ( Só quem assinar verá o vídeo)
+https://vimeo.com/
+
+Sites para pegar imagens com ou sem direitos autorais
+=UnSplash
+=Pexel ( Tbm baixa vídeos)
+=Freepik
+=Rawpixel
+=Pixabay
+=Libreshot
+=Wikimedia Commons
+
+Sites para controles de cores
+color.adobe.com
+paletton.com
+coolors.co
+
+Site para utilização de fontes externas
+Google Fonts ( Aula 14 / 06 curso em vídeo )
+dafont ( Meu favorito )
+
+Estenção para saber fonts de sites
+Font Ninja
+
+sites para descoberta de fontes em img
+whatfonti8.com ( O mlhr )
+font squirrel
+myfonts
+
+Site github do guanabara
+https://github.com/gustavoguanabara
+
+Site de criação de projeto de site
+https://www.mockflow.com/
+
+plugins para desenvolver sites
+Window Resizer
+
+==============================================================
+========================Configurações==========================
+==============================================================
+Configurações 
+	(Extensões CTRL + Shift + X )
+	     >Instalar = [JavaScript + PHP + Português ( Brasil ) microsoft]
+	Word Wap ( Off ) Colocar em ligado ( ON )
+	FontSize padrão 14 ( Colocar uma fonte confortável.
+	Colocar para salvar automaticamente
+	     >Arquivos = Salvar automaticamente.
+
+No novo arquivo criado colocar ( index.html ) sem letras maiúscula e espaço!!!
+
+
+==============================================================
+===========================Atalhos=============================
+==============================================================
+- ( CTRL + SHIFT + P + plalavra selecionada ) para colocar a tag de forma mais facíl.
+- (Shift + Tab ) Faz com que vc possa trazer algo escrito para a margem de forma mais fácil.
+- ( ALT + selecionando as áreas ) Pode mudar mais de um local ao mesmo tempo.
+
+==============================================================
+==============Atalhos para criação mais rápida======================
+==============================================================
+- ( <a href=" [Lnk do destino] " target="_blank [abre o link em uma nova aba]" rel="external [para sites externos]"> </a> ) Cria um âncora para um site ou página. 
+	target="_blank [abre o link em uma nova aba]"
+	target="_self [abre o link na mesma aba do navegador]"
+	rel="external [para sites externos]"
+	rel="next [próxima página]"
+	rel="prev [página anterior]"
+	rel="nofollow [Para não perpetuar a busca no site ou página seguinte]"
+
+- (<!-- --> ) Criação de um comentário em html5.
+- ( /**/ ) Criação de um comentário nas CSS.
+- ( ! ) = Criação do código básico do index.html [ HTML ].
+- ( p ) = Criação de parágrafos [ Início <p> fim </p> ].
+- ( hr ) Criação de uma linha horizontal.
+- ( br ) Faz uma quebra de linha <br>.
+- ( &lt; ) Criação de ( < ).
+- ( &gt; ) Criação de ( > )
+- ( &reg; ) Criação do símbolo de marca registrada.
+- ( &copy; ) Criação de copyright.
+- ( &trade; ) Criação do símbolo TM.
+- ( &cent; ) Criação do símbolo da moeda [ trocando o cent para yen  ou outr o símbolo da moeda muda.
+- ( &Delta ; ) Criação do símbolo Delta.
+- ( &uparrow; ) Criação de seta para cima.
+- ( &downarrow; ) Criação de seta para baixo.
+- ( &rightarrow; ) Criação de seta para direita.
+- (&leftarrow; ) Criação de seta para esquerda.
+- (&#x + o código do emoji + ; ) Para colocar emoji na página.
+- ( <img src="[CTRL+Espaço = Local onde a imagem está] ou link da img" alt="[Texto alternativo]"> )Para colocar imagem no site.
+- ( <link rel="shortcut icon"  href="Origem da img" type="image/x-icon">)Para colocar o favicom na página.
+- ( <h1> </h1> [ h1, h2 , h3... h6. ) São Hierarquias de títulos. 
+- ( <u> </u> ) Sublinhado esse texto [ Sendo descontinuado cuidado ].
+- ( <ins> </ins> ) Sublinhado esse texto.
+- (<address> </address> ) Faz com que o texto seja reconhecido como um endereço.
+- ( <b> </b> ) Uma forma não semântica de colocar uma frase ou palavra em negrito.
+- ( <strong> </strong> ) Umaforma semântica de colocar a palavra ou frase em negrito destacando que ela e forte.
+- ( <i> </i> ) Uma forma não semântica de colocar uma frase ou palavra em itálico.
+- ( <em> </em> ) Uma forma semântica de colocar uma frase ou palavra em itálico.
+- ( <mark> </mark> ) Para criar uma marcação de texto[ a cor e em CSS ]
+- ( <mark style=""> </mark> ) O parâmetro [style] e o CSS local para criar um estilo específico.
+- (<del> </del> ) faz com que o texto seja riscado para que desconsidere ele.
+-( <sup> </sup> ) Cria um texto sobrescrito.
+-( <sub> </sub> ) Cria um texto subscrito.
+- ( <code> </code> ) Faz com que a fonte fique mono espaçada.
+- ( <pre> </pre> ) Faz com que a fonte fique com indentação [ Escrita como um código ]
+- ( <small> </small> ) Cria um texto pegueno.
+- ( <q> </q> ) Cria uma citação [ "blá...blá..." ] ás aspas.
+- ( <blockquote> </blockquote> ) Cria uma citação mais completa com deslicamento para direita.
+- ( <abbr tittle=""> </abbr> ) Para dizer oque a abreviação quer dizer. 
+- ( <ol> </ol> ) Cria uma lista ordenada [  (<li> itens </li> ) o ( </li> ) se tornou opcional ]. 
+- ( <ul> </ul> ) Cria uma lista não ordenada [  (<li> itens </li> ) o ( </li> ) se tornou opcional ]. 
+- ( <dl> </dl> ) Cria uma lista de definições [ ( <dt> </dt> e o termo) e ( <dd> </dd> e a descrição ) ].
+- ( <picture> </picture> ) Permite criar variações de fontes/sources [configura as img] 
+- ( <audio src="[aúdio]" controls autoplay> </audio> ) Coloca uma mídia de som na sua página.
+- ( Mais a baixo tem outra forma mais completa de colocar mídia de aúdio ).
+- ( <video src="[Seu Vídeo local" width="[controla o tamanho ocupado pelo vídeo na tela ex:(500)]" controls> </video> ) Para colocar vídeo na sua página ou site.
+- ( Mais a baixo tem outra forma mais completa de colocar mídia de vídeo ).
+- ( *{} ) Cria uma configuração global das CSS.
+- ( id ) em CSS é ( # ).
+- ( class ) em CSS é ( . ). 
+- ( : ) pseudo-class
+- ( :: ) pseudo-element
+- ( > ) clildren ( Filho )
+- ( <span> </span> ) Cria um trexo para simples, para por ex colocar uma classe.
+- ( <div> </div> ) Cria um espaço qualquer para manipular o su conteúdo separadamente.
+- ( :root {} ) E a ráiz da aárvore do documento css[ Criação de váriaveis]
+- (height: 100vh; ) Faz o conteúdo da viewport ficar 100% da altura da tela.
+- ( transform: translate (-50%, -50%); Transforma a caixa. Centralizando o conteúdo.
+- ( <table> </table> )  Cria tabelas onde (th) cabeçalho da tabela (tr) linhas e (td) colunas.
+- (<th> </th> ) Cabeçalho da tabela.
+- ( <tr> </tr> ) Cra linhas das tabelas.
+- ( <td> </td> ) Cria colunas das tabelas.
+<tr> que significa table row é usada para definir uma linha.
+<td> que significa table data é usada para definir uma célula.
+<th> que significa table header.
+
+
+A etiqueta <tr> que significa table row é usada para definir uma linha. A etiqueta <td> que significa table data é usada para definir uma célula. As tabelas podem ter cabeçalhos. Para isso usa-se a etiqueta <th> que significa table header.
+
+
+
+
+==============================================================
+=====================Explicações rápidas=========================
+==============================================================
+HTML [HyperTextMarkup] > Semântica, significado
+	> ( <mark style=""> </mark> ) O parâmetro [style] e o CSS local para criar um estilo específico.
+	
+	> Na parte de ( <head> </head> ) entre elas pode se criar um estilo global style EX: ( <style> mark{ background-color: 000000; } </style> ) e cria um stilo/ forma para a página local.
+	
+	> ( <blockquote cite="[o google reconhece o site nesse local e faz referência ao texto seguinte]"> [ Texto que estiver nesse local ] </blockquote>
+	
+	> ( <abbr tittle="[Aqui vc escreve o sentido da abraviação]"> </abbr> ) Para dizer oque a abreviação quer dizer.
+	
+	> ( <ol type=" [Tipo de numeração da lista 1, A, a, I ou i" start=" [Ponto de inicío da lista] "] > </ol> ) 
+	
+	> ( <ul type=" [Tipo de listagem circle, square ou disc ] " > </ul> ) 
+	
+	> (../ volta uma pasta ./ e a mesma pasta)
+	
+	> ( # ) Se utiliza quando ainda não tem um link para colocar no local.
+	
+	> ( <a href="[Local o arquivo]" download="[Nome do arquivo de download]" type="[Site dos midia type e veja qual o nome para baixar determinado arquivo como dito lá em cima]"> </a> ) para baixar um arquivo ou abrir no navegador caso seja reconhecido como o PDF.
+	
+	> ( <picture> ) Permite criar variações de fontes/sources [configura as img] 
+		<source media="[ ( max ou min -width: ) ]" srcset=" [a img que vai carregar ]" type=" [ local da img ]"> </source>.
+	> ( ALERTA) cuidado com a ordem do MAX ou MIN pq deve ser obdecida para que funcione corretamente 10px, 20px...1000px e etc.
+	
+	> (  </picture> )
+	
+	> ( <audio preload="(auto, metadata ou none)" autoplay controls loop[ faz repetir quando chegar ao fim]> )
+			Auto = vai começar quando terminar de carregar por completo o site ( CUIDADO FAZ FICAR PESADO )
+			Metadata = Carrega só o básico do arquivo como nome e duração.
+			None = Só carrega e inicía quando o usuário aperta no play.
+		[ O navegador tentará carregar o primeiro arquivo se não conseguir ele tentará carregar o próximo]
+		<source src="[mídia de aúdio]" type="[Tipo de mídia de aúdio ex: audio/mpeg]">
+		<source src="[mídia de aúdio]" type="[Tipo de mídia de aúdio ex: audio/wav]"> (EVITAR POR SER MAIS PESADO)
+		<source src="[mídia de aúdio]" type="[Tipo de mídia de aúdio ex: audio/ogg]">
+		[casa nenhuma mídia funcione pode colocar um (<p>[sua msg] </p>)] 
+	> (</audio>).
+	
+	> ( <video poster="[Img que fica antes do vídeo começar]" controls autoplay loop> )
+		<source src="[mídia de vídeo]" type="[ tipo de arquivo de vídeo ex ( mp4, mkv, ogv e etc)]">
+		<source src="[mídia de vídeo]" type="[ tipo de arquivo de vídeo ex ( mp4, mkv, ogv e etc)]">
+		[caso nenhuma mídia funcione pode colocar um (<p>[sua msg] </p>)] 
+	> ( </video> )
+	
+	> ( compartilhar - Incorporar - copiar o código html que o youtube cria ) Depois só colocar com CTRL + V na sua html.
+
+	@import url(' [link da font que vc pegou no google fonts] '); [ Coloca uma font externa na sua página ou site ]
+
+	@font-face[Uma regra CSS para utilizar uma fonte baixada] 
+		{
+		font-family:[nome da fonte] ;
+		src: url ( ' [Nome exato da fonte entre aspas e seu local] ') format ( [Tipo do formato]), url ( ' [Nome exato da fonte entre aspas] ') format ( [Tipo do formato]) ;
+		} 
+			( FORMATOS DE FONTES ) [Tipo do formato]
+				- opentype (otf)
+				- truetype (ttf)
+				- embedded-opentype
+				- truetype-aat ( apple advanced typography)
+				- svg
+
+		:root [Cria uma variável para o css facilitanto a criação]
+			{
+			[ Para criar a variável começa com - - dois traços, depois o seu nome ]
+			EX: - -cor0: 000000;
+			- -cor0: #c5ebd6;
+			- -cor0: #83e1ad;
+			- -cor0: #3ddc84;
+			- -cor0: #2fa866;
+			- -cor0: #1a5c37;
+			- -cor0: #063d1e;
+			
+			- -fonte-padrao: Arial, Verdana< Helvetica, sans-serif;
+			}
+		
+		body [ Para usar a variável criada a cima no body ]
+			{
+			background-color: var(--cor0); [ O ultimo parâmetro e a utilização ]
+			
+			}
+		
+
+		[Criando tabelas]
+			<table>
+			
+			<tr>
+			<td> a1 </td>
+			<td> b1 </td>
+			<td> c1 </td>
+			</tr>
+			<tr>
+			<td> a2 </td>
+			<td> b2 </td>
+			<td> c2 </td>
+			</tr>
+			
+			</table>
+
+
+==================================================================
+==================================================================
+==================================================================
+
+
+CSS [Cascading Style Sheet] > Estilo, Forma
+
+- ( Medidas Absolutas ) cm, mm, in, px, pt, pc
+- ( Medidas Relativas ) em, ex, rem, vw, vh, %
+	( ATENÇÂO > Utilizar somente PX ou EM )
+
+	    [Cria uma configuração global das CSS.]
+	( *{
+	     height:100%;
+	     } ) 
+		
+
+	
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------- Forma de CSS externo aconselhável ---------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+	Configuração importante para a .CSS criada
+		@charset "UTF-8"; [ Para que tenha compatibilidade com acentuação]
+		( @ ) Os [ @ ] são regras da css.
+	
+	<head>
+	      <link rel="stylesheet" href="style.css"> [Adiciona o estilo da css na página que for colocado]
+	</head>
+
+	       h1, h2 { } [ Tbm pode ser criada assim ]
+	        
+	[na .CSS feita pode por os estilos da sua página]
+	         body [seletor criado] 
+		{ 
+		background-size: contain; _____________ [ Faz a imagem ficar 100% contida na parte body ]
+		background-size: cover; _______________ [ Cobre toda a tela com a img da body mesmo que tenha que cortar ]
+		background-repeat: no-repeat; ________ [ Faz a img de background não se repetir ]
+		background-position: center center; __ [ Centraliza a img no centro da body ] 
+		background-color: 000000; 
+		font-family: Arial, helvetica, sans-serif;
+		font-size:20px;  
+		background-attachment: fixed; [ Fixa o fundo e não deixa rolar junto com o scrool]
+		[ETC]
+		}
+
+
+	           main  ______________________________________[ Fica com todo o conteúdo dentro e fica na parte de body ]
+		{
+		Background-color: white;   _____________[ Deixa o fundo brando do MAIN ]
+		width: 600px;  __________________________[ Limita a largura do MAIN a 600px ]
+		padding: 10px;  _________________________[ Deixa com um espaçamento de 10 px no MAIN ]
+		margin: auto;   __________________________[ Centraliza automaticamente a parte MAIN ]
+		border-radius: 20px;  ___________________[ Deixa as bordas arredondadas ]
+		box-shadow: 5px 5px 10px black; ______[ Cria uma projeção de sombra ]
+		}
+
+		div 
+		{
+		border: 1px solid black; _________________[ Cria uma borda entorno da div
+		display: inline-block;  ____________________[ Coloca tudo numa linha ]
+		}
+
+	           h1 [seletor criado] 
+		{ 
+		text-align: center; _______________________[ Faz o texto ficar centralizado ]
+		background-color: 000000; 
+		color: 00ff00;
+		font-family: Arial, helvetica, sans-serif;
+		font-size:16px;  
+		[ETC]
+		}
+	           p [seletor criado] 
+		{ 
+		text-decoration: none;  __________________[ Tira todas as decorações ]
+		text-indent: 20px;  _______________________[Deixa o texto com uma indentação no inicío da frase]
+		text-align: justify; ________________________[ Deixa o texto justificado na sua página ]
+		font-weight: [normal, lighter, bold, bolder ou 100 a 900 ] ; [ Peso da fonte]
+		font-style: [ normal, italic e etc ] ; ________[ Estilo da fonte ]
+		text-decoration: [underline e etc] ; ______ [Sublinha o texto e outros ]
+ 		text-align: justify;
+		background-color: 000000; 
+		color: 00ff00;
+		font-family: Arial, helvetica, sans-serif;
+		font-size:16px;  
+		[ETC]
+		}
+
+		( =================ATENÇÂO====================)
+			simplificando 4 em 1: [font-family > font-weight > font-size > font-style] Ordem muito importante!!!!!!!
+				font: Arial bolder 3em 'Work Sans', sans-serif; 
+
+
+			simplificando 4 em 1: [border-width > border-style > border-color ] Ordem muito importante!!!!!!!
+				border: 10px solid red ;
+				
+
+
+		CSS
+		    h1#principal { } [ h1 e opcional, sem ele qualquer elemento pode utilizar o #principal]
+		<h1 id="principal [nome do identificador CSS] " > </h1> [Criando um ID para personalizar de forma diferente]
+		
+		- ( id ) em CSS é ( # ).
+			[ Nesse casso por ex somente um <h1> pode ter esse id.
+
+		- ( class ) em CSS é ( . ). 
+			[ Nesse casso por ex mais de um <h1> pode ter a classe.
+			tbm e possível ter mais de uma classe em um <h1> EX:
+				<h1 classe=" principal secundaria " so separar com espaço.
+
+		- ( : ) É uma pseudo-classes tem que estar relacionada com o elemento.
+			EX: div:houver [ houve e quando o mouse estiver em cima ]
+				{
+				background-color: yellow;
+				}
+
+		- ( :: ) E um pseudo-elemento
+			EX: div::after [ after ou before  depois ou antes do elemento faça algo]
+				{
+				content: ' [LINK] '; [Coloca [LINK] depois de todo o conteúdo ]
+				}
+
+		
+		
+		div:hover [ Nesse casso quando o mouse ficar em cima da <div> ela vai ficar vermelha]
+			{
+			color: red;
+			
+			}
+			
+
+				
+			h1 [ Criando bordas com imagem ]
+			{
+			border: 10px solid black;
+			border-image-source: url(' [Nome da imagem que vai ser utilizada para as bordas'); [ Cria bordas com img.
+			border-image-slice: 20; [Define o tamanho da imagem nas bordas] . 
+			border-image-repeat: repeat; [ Repete a img das bordas ].
+			}
+			
+			
+			
+			
+			
+			
+			
+			
+======================EXEMPLO=======================		
+		div > p{
+    		display: none;
+		}
+
+		div:hover > p{
+ 		   display: block;
+		}
+
+		div:hover{
+		    color: aqua;
+		    background-color: black;
+		}
+
+
+	<div>
+	          TEXTO01
+                     <p>TEXTO02</p> [ Nesse caso ( TEXTO02 ) irá sumir e aparecer somente quando o mouse for colocado sobre o ( TEXTO01 )] 
+                  </div>
+	
+	
+	
+
+	     
+	a:visited [ Faz com que todos os links visitados fiquem vermelho escuro ] 
+	{
+	color: darkred;
+	}
+
+	a:hover [ Quando o mouse estiver em cima do link ]
+	{
+	text-decoration: underline; [ Faz ficar sublinhado o link quando o mouse estiver sobre ]
+	
+	}
+
+	a:active [ Quando estiver ativado EX quando clicar e segura sobre um link ]
+	{
+	color: yellow;
+	
+	}
+
+--------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------Criando Dégradé------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------
+	            body [seletor criado] 
+		{ 
+		
+		background-image: linear-gradient(to bottom, whit, blue );
+	         EX:   [background-image: [ linear, radial...] linear-gradient(to [right, left, top ou bottom[ou circle sem o "to"]] [whit, blue...] [ depois das cores pode colocar % para definir o tamanho do dégradé]);] 
+			[Cria um dégradé da esquerda para direita de branco para o azul]
+		font-family: Arial, helvetica, sans-serif;
+		font-size:20px;  
+		[ETC]
+		}
+
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------ Forma de CSS local não aconselhável -------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+	> ( <body style=" [parâmetros css em linha] ex: background-color:000000; font-family: Arial; font-size:20px;"> ) 
+		<p style=" [parâmetros css em linha] ex: background-color:ffffff; color: blue;> Lorem </p>
+	> ( </body> )
+	> ( <p style="text-align: justify; [Deixa o texto justificado na página]"> lorem </p>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------- Forma de CSS internos aconselhável para uma página ---------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+	<head>
+	      <style> (Tudo dentro desse parãmetro vai ser considerado CSS)
+	           body [seletor criado] 
+		{ 
+		background-color: 000000; 
+		font-family: Arial, helvetica, sans-serif;
+		font-size:20px;  
+		[ETC]
+		}
+
+	           h1 [seletor criado] 
+		{ 
+		background-color: 000000; 
+		color: 00ff00;
+		font-family: Arial, helvetica, sans-serif;
+		font-size:16px;  
+		[ETC]
+		}
+	           p [seletor criado] 
+		{ 
+		text-align: justify; [ Deixa o texto justificado na sua página ]
+		background-color: 000000; 
+		color: 00ff00;
+		font-family: Arial, helvetica, sans-serif;
+		font-size:16px;  
+		[ETC]
+		}
+	      </style>	
+	</head>
+
+
+
+
+JavaScript > Interação
+
+================================================
+===========Construção básica html 5================
+================================================
+<head> 
+</head>
+<body>
+
+     <header> __[Cabeçalho ]
+     </header>
+
+     <main> __[ Página principal ]
+
+          <section id="assuntos" > 
+
+               <article>
+
+                    <aside>
+                    </aside>
+
+               </article>
+
+          </section>
+
+          <section id="noticias" >  
+          </section>
+
+     </main>
+
+     <footer> ____[ Roda pé ]
+     </footer>
+
+</body>
+
+
+
+
+
+================================================
+===========BOX-LEVEL=====INLINE-LEVEL============
+================================================
+
+Box-Level 
+	Sempre se inicia em na linha de baixo ocupando a largura inteira da tela.
+	- Algumas tags
+		<div>
+		<h1> - <h6>
+		<p>
+		<main>
+		<header>
+		<nav>
+		<article>
+		<aside>
+		<footer>
+		<form>
+		<video> 
+
+
+Inline-Level
+	Continua na linha que termina, sem quebrar a linha.
+	- Algumas tags
+		<span>
+		<a>
+		<code>
+		<small>
+		<strong>
+		<em>
+		<sup> - <sub>
+		<label>
+		<button>
+		<input>
+		<select>
+
+=======================================================
+===========Centralização de vídeo incorporado===============
+=======================================================
+
+
+>html   
+	[ Primeiro envelopar a incorporação do video em uma <div class:" video "> </div> dando um nome para a classe depois va em CSS ]
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/l2UDgpLz20M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
+
+>CSS
+
+div.video 
+  {
+  
+  
+  }
+
+
+
+========================================================
+=======================Shorthand=========================
+========================================================
+Shorthand - background
+	color > image > position > repeat > size > attachment __ [ Cuidado com size ]
+
+	EX:
+	background: black url(' img ') center center no-repeat {cover} fixed;
+		[ Se cover n funcionar coloque separadamente [ background-size: cover;
+
+
+
+
