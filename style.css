@@ -225,9 +225,17 @@ footer > nav > div{
 footer > nav > div > a > img{
     width: 25px;
 }
-
-#section_vh{
-    padding-top: 20vh;
-    padding-bottom: 20vh;
-    background-color: var(--cor5);
+.criando_parallax{
+    background-image: url(img/background-capa-phelippesouza0.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #ff00d400;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+.criando_parallax > section{
+    background-color: #00538a00;
+    height: 30px;
 }
