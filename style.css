@@ -114,7 +114,8 @@ div.video {
     margin: auto;
     margin-top: 10px;
     background-color: var(--cor5);
-    height: 500px;
+    height: 600px;
+    width: 80%;
     border-radius: 15px;
     padding: 10px;
 }
