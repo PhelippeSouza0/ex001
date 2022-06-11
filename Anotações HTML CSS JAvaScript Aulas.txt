@@ -158,15 +158,18 @@ No novo arquivo criado colocar ( index.html ) sem letras maiúscula e espaço!!!
 - (<th> </th> ) Cabeçalho da tabela.
 - ( <tr> </tr> ) Cra linhas das tabelas.
 - ( <td> </td> ) Cria colunas das tabelas.
+- ( <caption> </caption> ) Legenda da tabela
 <tr> que significa table row é usada para definir uma linha.
 <td> que significa table data é usada para definir uma célula.
 <th> que significa table header.
 
+Sempre que for um titulo th e um dado td
 
 A etiqueta <tr> que significa table row é usada para definir uma linha. A etiqueta <td> que significa table data é usada para definir uma célula. As tabelas podem ter cabeçalhos. Para isso usa-se a etiqueta <th> que significa table header.
 
+=====ATENÇÂO COM O (SCOPE) das tabelas====
 
-
+	<th scope='col'> </th>
 
 ==============================================================
 =====================Explicações rápidas=========================
@@ -250,7 +253,7 @@ HTML [HyperTextMarkup] > Semântica, significado
 			}
 		
 
-		[Criando tabelas]
+		[Criando tabelas simples]
 			<table>
 			
 			<tr>
@@ -265,6 +268,55 @@ HTML [HyperTextMarkup] > Semântica, significado
 			</tr>
 			
 			</table>
+
+		'[Criando tabelas complexas]
+			
+			
+			<caption> </caption>
+			<table>
+
+			<thead>
+			
+			<tr>
+			
+			<th>Nome
+			</th>
+			<th>Quantidade
+			</th>
+			
+			</tr>
+			
+			</thead>
+
+			<tbody>
+			
+			<tr>
+			
+			<td>Nome
+			</td>
+			<td>Quantidade
+			</td>
+			
+
+			</tr>
+			
+			</tbody>
+			
+			<tfoot>
+			
+			<tr>
+			
+			<th>Nome Total
+			</th>
+			<td>Quantidade Total
+			</td>
+			
+
+			</tr>
+			
+			</tfoot>
+			
+			</table
 
 
 ==================================================================
