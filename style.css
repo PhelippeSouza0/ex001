@@ -223,7 +223,7 @@ footer > nav > div > a > img{
     width: 25px;
 }
 .criando_parallax{
-    background-image: url(img/background-capa-phelippesouza0.jpg);
+    background-image: url(img/Background/093f51f6e8305579af89183d4095cb35.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -231,6 +231,7 @@ footer > nav > div > a > img{
     color: #ff00d400;
     padding-top: 300px;
     padding-bottom: 300px;
+    text-align: center;
 }
 .criando_parallax > section{
     background-color: #00538a00;
@@ -242,7 +243,7 @@ footer > nav > div > a > img{
     font-family: var(--fonte-padrao);
     font-size: xx-large;
     background-color: rgba(255, 255, 255, 0.829);
-    width: 400px;
+    width: 55%;
     border-radius: 15px;
 }
 table{
