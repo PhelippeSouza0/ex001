@@ -12,46 +12,98 @@
     --cor5: #ff00d4;
     --cor6: #ffffff;
     --cor7: #ffffffdc; /**Cor para copyright**/
+    --cor8: #000000;
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque:  'Bebas Neue', cursive;
 }
+/*
+@media screen and (min-width: 769px) {
+	header{
+        background-image: url(img/2560\ 373\ backgroun\ top\ site.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 30vh;
+        background-color: var(--cor0);
+        padding: 0px;
+        margin: 0px;
+    }
+} 
+*/
+h1{
+    color: var(--cor8);
+    text-align: center;
+    font-size: 6em;
+}
+h2{
+    font-weight: bold;
+    text-align: center;
+}
+h3{
+    font-family: var(--fonte-padrao);
+    color: var(--cor6);
+}
+p{ 
+    text-align: justify;
+    font-family: var(--fonte-padrao);
+    text-indent: 20px;
+    font-weight: 600;
+}
+#Tela_Welcome_texto > p, h2{
+    text-indent: 0px;
+    text-align: center;
+}
+#Tela_Welcome{
+    background-image: url(img/Background/CityCena.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+#Tela_Welcome_texto{
+    background-color: rgba(255, 255, 255, 0.589);
+    width: 450px;
+    margin: auto;
+    
+    position: relative;
+    top: 50%;
+    border-radius: 15px;
+}
 header{
     width: 100%;
-    background-color: var(--cor0);
+    background-color: var(--cor8);
     padding: 0px;
     margin: 0px;
 }
-nav{
+.navmenu{
     background-color: var(--cor6);
-    padding: 10px 0px;
+    font-family: var(--fonte-padrao);
+}
+div{
+}
+nav{
+    padding: 10px 10px;
     text-align: center;
 }
 .navmenu > a{
-    color: var(--cor2);
+    color: var(--cor8);
     font-weight: bolder;
     transition-duration: 0.3s;
-    padding: 0px 0.5% 0px 0.5%;
+    padding: 12px 0.5% 14px 0.5%;
+    border-radius: 0px 0px 10px 10px;
     font-size: 80%;
+    margin: 0px;
 }
 nav > a:hover{
     font-weight: bolder;
     color: var(--cor5);
-}
-.divimginicialorganizacao_texto{
-    display: inline;
-    margin: auto;
-    background-color: var(--cor5);
+    background-color: var(--cor8);
 }
 .divimginicial{
-    margin: 0px auto 0px auto;
-    padding: 0px;
-    width: 300px;
-    height: 300px;
-}
-.navmenu{
-    padding: 10px 0px;
-    margin: 0px;
-    font-family: var(--fonte-padrao);
+    display: block;
+    text-align: center;
+    margin: auto;
 }
 .divlista{
     margin-top: 10px;
@@ -82,33 +134,14 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    height: 30%;
 }
 main{
     padding: 15px;
     margin: auto;
     background-image:linear-gradient(to bottom, rgb(205, 255, 255), rgb(255, 208, 241) );
 }
-p{ 
-    font-family: var(--fonte-padrao);
-    text-align: justify; 
-    text-indent: 20px;
-    font-weight: 600;
-    margin-left: auto;
-    margin-right: auto;}
-h1{
-    color: var(--cor6);
-    text-align: center;
-}
-h2{
-    text-align: center;
-}
-h3{
-    font-family: var(--fonte-padrao);
-    font-weight: bolder;
-    font-size: x-large;
-    color: var(--cor6);
-}
+
 div.video {
     display: block;
     margin: auto;
