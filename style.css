@@ -13,7 +13,7 @@
     --cor6: #ffffff;
     --cor7: #ffffffdc; /**Cor para copyright**/
     --cor8: #000000;
-    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-padrao: Arial, Helvetica, sans-serif;
     --fonte-destaque:  'Bebas Neue', cursive;
 }
 /*
@@ -28,11 +28,37 @@
         margin: 0px;
     }
 } 
+
+@media screen and (max-width:1000;){
+    h1{
+        color: var(--cor8);
+        text-align: center;
+        font-size: 4vw;
+    }
+    h2{
+        font-weight: bold;
+        text-align: center;
+    }
+    h3{
+        font-family: var(--fonte-padrao);
+        color: var(--cor6);
+    }
+    p{ 
+        text-align: justify;
+        font-family: var(--fonte-padrao);
+        text-indent: 20px;
+        font-weight: 600;
+    }
+    #Tela_Welcome_texto > p, h2{
+        text-indent: 0px;
+        text-align: center;
+    }
+}
+
 */
 h1{
     color: var(--cor8);
     text-align: center;
-    font-size: 6em;
 }
 h2{
     font-weight: bold;
@@ -45,8 +71,8 @@ h3{
 p{ 
     text-align: justify;
     font-family: var(--fonte-padrao);
-    text-indent: 20px;
-    font-weight: 600;
+    text-indent: 10px;
+    font-weight: bold;
 }
 #Tela_Welcome_texto > p, h2{
     text-indent: 0px;
@@ -62,10 +88,11 @@ p{
     height: 100vh;
 }
 #Tela_Welcome_texto{
-    background-color: rgba(255, 255, 255, 0.589);
-    width: 450px;
+    padding: 20px;
+    max-width: 600px;
+    background-color: #ffffff81;
+    text-align: center;
     margin: auto;
-    
     position: relative;
     top: 50%;
     border-radius: 15px;
@@ -79,8 +106,6 @@ header{
 .navmenu{
     background-color: var(--cor6);
     font-family: var(--fonte-padrao);
-}
-div{
 }
 nav{
     padding: 10px 10px;
